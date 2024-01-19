@@ -1,9 +1,5 @@
 # First-Repository-Devops
-p
-{
+def new :
   First Repository For Devops
-}
-p
-{
-  This is second commin
-}
+def new1 :
+  This is third commit
